@@ -48,29 +48,24 @@ void Backup()
 
 int main()
 {
-	SetConsoleTitle(" Inyector VACa v.2.2 - www.CheatersUnidos.tk - 16 - Julio - 2020 :)");
+	SetConsoleTitle(" Inyector VACa v.3.0 - www.CheatersUnidos.com - 29 - Enero - 2021 :)");
 
-	cout << "888     888     d8888  .d8888b.                 .d8888b.         .d8888b.  " << endl;
-	cout << "888     888    d88888 d88P  Y88b               d88P  Y88b       d88P  Y88b   " << endl;
-	cout << "888     888   d88P888 888    888                      888              888  " << endl;
-	cout << "Y88b   d88P  d88P 888 888         8888b.            .d88P            .d88P  " << endl;
-	cout << " Y88b d88P  d88P  888 888            88b.        od888P           od888P  " << endl;
-	cout << "  Y88o88P  d88P   888 888    888 .d888888      d88P             d88P  " << endl;
-	cout << "   Y888P  d8888888888 Y88b   d88 888  888      888        d8b   888  " << endl;
-	cout << "    Y8P  d88P     888   Y8888P   Y888888.      888888888  Y8P   888888888\n" << endl;
+	cout << " " << endl;
+	cout << "    ##     ##       ###        ######        ***              44    44 " << endl;
+	cout << "    ##     ##      ## ##      ##    ##      ** **             44    44 " << endl;
+	cout << "    ##     ##     ##   ##     ##           **   **            44    44 " << endl;
+	cout << "    ##     ##    ##     ##    ##          **     **           44    44 " << endl;
+	cout << "    ##   ##      #########    ##          *********           444444444" << endl;
+	cout << "    ## ##        ##     ##    ##          **     **                 44 " << endl;
+	cout << "    ###          ##     ##    ##    ##    **     **                 44 " << endl;
+	cout << "    #            ##     ##     ######     **     **                 44  ]:-)\n\n" << endl;
 
-
-	cout << "*****************************************************************" << endl;
-	cout << "*  Inyector VACa 2.2 - www.CheatersUnidos.tk - 16 - Julio - 2020 *" << endl;
-	cout << "*****************************************************************\n\n" << endl;
-
-
-
-	cout << "Creadores y Agradecimientos Especiales para:\n Daniel Krupinski, online-9, Hitchance\n\n" << endl;
-
-	cout << "Traducido y Recompilado:\n SuperK2 & Gauxalot\n\n" << endl;
-
-	cout << "www.CheatersUnidos.tk - Discord: https://discord.gg/4Sh8PJP \n\n" << endl;
+	cout << "    ***************************************************************************" << endl;
+	cout << "    *  Inyector VACa v.4.0 - www.CheatersUnidos.com - 23 - Febrero - 2021 :)  *" << endl;
+	cout << "    ***************************************************************************\n" << endl;
+	cout << "    Traducido y Recompilado: SuperK2 & Gauxalot https://github.com/SuperK2-OS/VACa \n" << endl;
+	cout << "    Creadores y Agradecimientos Especiales para: Daniel Krupinski, online-9, Hitchance\n" << endl;
+	cout << "    https://www.CheatersUnidos.com - Discord: https://discord.gg/4Sh8PJP \n\n" << endl;
 
 	inj.hwndproc = FindWindowA(0, "Counter-Strike: Global Offensive");
 
@@ -84,14 +79,14 @@ int main()
 		bypass();
 
 		if (inj.inject(pid, "cheat.dll")) {
-			cout << "CHEAT INYECTADO CORRECTAMENTE, DISFRUTA ! GLHF !!\n\n" << endl;
+			cout << "    >>>>>> Inyector VACa v.4.0 HA FUNCIONADO !!! CHEAT INYECTADO CORRECTAMENTE, DISFRUTA ! GLHF !!\n\n" << endl;
 			Backup();
 			Sleep(5000);
 			exit(0);
 		}
 		else
 		{
-			cout << "ERROR ! La Inyeccion ha fallado!\n\n" << endl;
+			cout << "    ######### ERROR ##########! La Inyeccion ha fallado!\n\n" << endl;
 			Backup();
 			Sleep(5000);
 			exit(-1);
@@ -100,7 +95,7 @@ int main()
 	}
 	else
 	{
-		cout << "EL FICHERO cheat.dll NO SE HA ENCONTRADO, RECUERDA RENOMBRAR TU .DLL como cheat.dll\n\n";
+		cout << "    *** IMPORTANTE: *** EL FICHERO cheat.dll NO SE HA ENCONTRADO, RECUERDA RENOMBRAR TU .DLL como cheat.dll\n\n";
 		Sleep(5000);
 		exit(-1);
 	}
