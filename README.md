@@ -4,7 +4,7 @@
 Forked from: https://github.com/AMATEURZ1337/load-lib-injector<br>
 Special Thanks to: <b>Daniel Krupinski, online-9 & Hitchance</b>.
 
-Traducido a Español by SuperK2 / http://www.CheatersUnidos.tk
+Traducido a Español by SuperK2 / http://www.CheatersUnidos.com
 
 ## Compilación
 Compilar con Microsoft Visual Studio 2019 Community, (Importante: Release x86).
