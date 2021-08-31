@@ -19,7 +19,7 @@ by SuperK2 / http://www.CheatersUnidos.com
 # Status
 - Unknown (20.06.2020)
 
-#Credits
+# Credits
 - Daniel Krupinski
 - online-9
 - Hitchance#1337
