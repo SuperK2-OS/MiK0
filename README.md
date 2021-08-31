@@ -17,12 +17,14 @@ by SuperK2 / http://www.CheatersUnidos.com
 # Status
 - Unknown (20.06.2020)
 
-Credits
+#Credits
 - Daniel Krupinski
 - online-9
 - Hitchance#1337
 
 # JunkCode :)
  - SuperK2
+ - www.CheatersUnidos.com
+ - Discord: https://discord.gg/4Sh8PJP
  
  Have a nice day :)
