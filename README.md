@@ -1,5 +1,4 @@
-# Inyector MiK0 v.1
-# -----------------
+# MiK0 Cheat Inyector v.1
 
 # Simple .DLL injector for CS:GO
 # STEAM´S Valve Anti Cheat (VAC) PROOF !
