@@ -1,7 +1,7 @@
 # MiK0 Cheat Inyector v.1
 
 # Simple .DLL injector for CS:GO
-# STEAM´S Valve Anti Cheat (VAC) PROOF !
+# STEAM´S Valve Anti Cheat (VAC) PROOF ! (September 2021)
 
 Forked from: https://github.com/AMATEURZ1337/load-lib-injector<br>
 Special Thanks to: <b>Daniel Krupinski, online-9 & Hitchance</b>.
