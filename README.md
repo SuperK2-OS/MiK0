@@ -1,4 +1,4 @@
-# Inyector VACa
+# Inyector MiK0 v.1 (Anteriormente VACa)
 # Sencillo inyector de DLLs para el Juego CS:GO
 
 Forked from: https://github.com/AMATEURZ1337/load-lib-injector<br>
