@@ -49,7 +49,7 @@ void Backup()
 int main()
 {
 	system("CLS");
-	SetConsoleTitle("MiK0 v.1 By SuperK2 | CS:GO Cheat Injector | 1/Sep/2021 | CheatersUnidos.com");
+	SetConsoleTitle("MiK0 v.2 By SuperK2 | CS:GO Cheat Injector | 10/Oct/2021 | CheatersUnidos.com");
 	cout << "    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@//////@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" << endl;
 	cout << "    @@@@@@@@@@@@@@@@@@@@@@(//////////////////////////////////(@@@@@@@@@@@@@@@@@@@@@@" << endl;
 	cout << "    @@@@@@@@@@@@@@@@@//////////////////////////////////////////////@@@@@@@@@@@@@@@@@" << endl;
@@ -75,7 +75,7 @@ int main()
 	cout << "    @@@@@@@@@@@@@@@@@@@@@@@@/////////@@@@@@@@@@@@@@@@@@@@@@@@@////@@@@@@@@@@@@@@@@@@" << endl;
 	cout << "    @@@@@@@@@@@@@@@@@@@@@@@@@@@////@@@@@@@@@@@@@@@@@@@@@@@@@@@//@@@@@@@@@@@@@@@@@@@@" << endl;
 	cout << "    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ / @@@@@@@@@@@@@@@@@@@@@@@@@@ / @@@@@@@@@@@@@@@@@@" << endl;
-	cout << "       MIK0 v.1 By SuperK2 | CS:GO Cheat Injector | www.CheatersUnidos.com    " << endl;
+	cout << "       MIK0 v.2 By SuperK2 | CS:GO Cheat Injector | www.CheatersUnidos.com    " << endl;
 	cout << "     Special Thanks to the Original Creators: Daniel Krupinski, online-9, Hitchance" << endl;
 	cout << "      NEED HELP ? www.CheatersUnidos.com  or Discord: https://discord.gg/4Sh8PJP" << endl;
 	cout << "                             >>>>>>>> INJECTING, PLEASE WAIT ..." << endl;
@@ -122,7 +122,7 @@ cout << "    @@@@@@@@@@@@@@@@@@@@@#/////@@@@@@////&@@@@@@@@@@@@@@@///////////@@@
 cout << "    @@@@@@@@@@@@@@@@@@@@@@@@/////////@@@@@@@@@@@@@@@@@@@@@@@@@////@@@@@@@@@@@@@@@@@@" << endl;
 cout << "    @@@@@@@@@@@@@@@@@@@@@@@@@@@////@@@@@@@@@@@@@@@@@@@@@@@@@@@//@@@@@@@@@@@@@@@@@@@@" << endl;
 cout << "    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ / @@@@@@@@@@@@@@@@@@@@@@@@@@ / @@@@@@@@@@@@@@@@@@" << endl;
-cout << "    @@@   MIK0 v.1       !!!  .DLL INJECTED  !!!  .DLL INJECTED  !!!                \n" << endl;
+cout << "    @@@   MIK0 v.2       !!!  .DLL INJECTED  !!!  .DLL INJECTED  !!!                \n" << endl;
 cout << "     Special Thanks to the Original Creators: Daniel Krupinski, online-9, Hitchance" << endl;
 cout << "      NEED HELP ? www.CheatersUnidos.com  or Discord: https://discord.gg/4Sh8PJP" << endl;
 			
